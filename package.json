@@ -1,0 +1,22 @@
+{
+  "name": "diwanee-boilerplate",
+  "version": "1.0.0",
+  "description": "Front end tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Milos777/diwanee-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Diwanee crew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Milos777/diwanee-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Milos777/diwanee-boilerplate#readme"
+}
